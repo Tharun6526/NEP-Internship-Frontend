@@ -1,4 +1,10 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# Ignore all node_modules everywhere
+node_modules/
+
+# Optional: build outputs
+build/
+my-app/build/
 
 # dependencies
 /node_modules
