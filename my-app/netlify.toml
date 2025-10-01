@@ -1,0 +1,4 @@
+[build]
+  base = "."         # Base directory is current folder (my-app)
+  publish = "build"  # Build folder to publish
+  command = "npm run build"
